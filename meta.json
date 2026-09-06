@@ -1,0 +1,23 @@
+{
+  "repo": "cyberlink-photodirector-professional",
+  "product": "CyberLink PhotoDirector Professional",
+  "kind": "design",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "design",
+  "topics": [
+    "cyberlink-photodirector",
+    "ai-photo-edit",
+    "layer-masks",
+    "portrait-retouch",
+    "photo-slideshow",
+    "photodirector-setup-failed-fix",
+    "how-to-install-photodirector",
+    "photodirector-windows",
+    "photodirector-desktop-2026",
+    "photodirector-desktop-package"
+  ],
+  "site": "toolix.me"
+}
